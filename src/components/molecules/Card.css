@@ -1,0 +1,13 @@
+img {
+    width: 150px;
+}
+
+.character-card {
+    width: min-content;
+    background-color: lightslategray;
+    color: white;
+}
+
+.values-character {
+    color: orange;
+}

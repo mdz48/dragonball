@@ -1,0 +1,6 @@
+body {
+  border: 2px solid red;
+  width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+}
